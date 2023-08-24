@@ -1,5 +1,3 @@
-Types of Artificial Intelligence and Their Applications in Personalization
-======================================================================================================================
 
 Artificial intelligence (AI) is a key enabler of personalization, allowing companies to analyze vast amounts of data to create tailored experiences for individual customers. In this chapter, we will explore the different types of AI and their applications in personalization.
 

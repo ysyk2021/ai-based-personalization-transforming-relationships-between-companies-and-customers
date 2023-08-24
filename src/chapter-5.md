@@ -1,5 +1,3 @@
-AI-Based Personalization Techniques and Strategies
-==================================================
 
 In this chapter of "AI-Based Personalization: Transforming Relationships Between Companies and Customers", we will explore the techniques and strategies used in AI-based personalization. Specifically, we will look at recommendation engines and targeted marketing, dynamic pricing and product customization, chatbots and virtual assistants, and predictive customer service and support.
 

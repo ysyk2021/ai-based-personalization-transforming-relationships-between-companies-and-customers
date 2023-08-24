@@ -1,5 +1,3 @@
-Traditional Approaches to Personalization
-========================================================================
 
 Traditional approaches to personalization have been used for decades, and they generally involve manually segmenting customers based on a limited set of criteria. Some common traditional approaches to personalization include:
 

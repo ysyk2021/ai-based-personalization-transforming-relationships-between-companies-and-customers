@@ -1,5 +1,3 @@
-Social Media and User Activity Tracking
-=========================================================================================
 
 Social media and user activity tracking are two additional types of data that companies can use for AI-based personalization. In this chapter, we will explore these two types of data and how they can be used to create personalized experiences.
 

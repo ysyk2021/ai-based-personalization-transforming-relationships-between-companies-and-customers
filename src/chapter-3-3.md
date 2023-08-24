@@ -1,5 +1,3 @@
-Case Studies on the Use of AI in Personalization
-============================================================================================
 
 Artificial intelligence (AI) is a powerful tool for personalization, enabling companies to create customized experiences for individual customers at scale. In this chapter, we will explore case studies of companies that have successfully implemented AI-based personalization.
 

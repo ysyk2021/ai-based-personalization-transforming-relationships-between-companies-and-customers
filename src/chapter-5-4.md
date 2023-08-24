@@ -1,5 +1,3 @@
-Chatbots and Virtual Assistants
-===================================================================================
 
 Chatbots and virtual assistants are two popular AI-based personalization techniques that companies can use to deliver personalized experiences to their customers. In this chapter, we will explore these techniques in more detail.
 

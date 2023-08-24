@@ -1,5 +1,3 @@
-Artificial Intelligence in Personalization
-==========================================
 
 Artificial intelligence (AI) is revolutionizing the field of personalization, allowing companies to create tailored experiences for individual customers at scale. In this chapter, we will explore the different types of AI, their advantages and limitations in personalization, and some case studies on their use.
 

@@ -1,5 +1,3 @@
-Behavioral and Transactional Data
-===================================================================================
 
 Behavioral and transactional data are two key types of data that companies can use for AI-based personalization. In this chapter, we will explore these two types of data and how they can be used to create personalized experiences.
 
